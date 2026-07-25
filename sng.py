@@ -19,7 +19,6 @@ def hello():
            the
  serial_number_generator
 ''')
-    cl()
     input(f'\nPress ENTER to start... ')
 hello()
 def main():
